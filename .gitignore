@@ -1,0 +1,11 @@
+## Environment normalization:
+/.bundle
+/vendor/bundle
+
+## Jekyll
+_site/
+.sass-cache/
+.jekyll-metadata
+
+## VS Code workspace
+*.code-workspace
