@@ -1,7 +1,7 @@
 # VS CodeでApexを匿名実行する
 実装する前に組織に接続している必要あり。
 
-![組織に接続している]({site.url}/assets/connect-org.png)
+![組織に接続している]({{ site.url }}/assets/images/connect-org.png)
 
 **ファイル全体を実行**
 * `scripts/apex/filename.apex` を作成
